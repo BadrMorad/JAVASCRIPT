@@ -26,7 +26,7 @@ let age = 37; // L'âge de la personne, ici 37
 // Quand on crée des variables, il est préférable de les nommer en "camelCase".
 // Par exemple : 
 // nomVariable
-// exempleLongDeVariable
+// examplelong
 
 // Déclaration d'une variable avec "let", qui permet de changer la valeur plus tard.
 let animal = "dog"; // Initialisation de la variable "animal" avec la valeur "dog"
